@@ -58,6 +58,49 @@ a {
     color: var(--main-bg-color)
 }
 
+/****** Header ***********/
+header {
+    width: 1440px;
+    height:79px
+}
+
+.logo-reservia {
+    width: 161.09px;
+    height: 79px;
+    padding: 30px 50px;
+    gap: 10px;
+    }
+
+.logo-reservia {
+    width: 61.09px;
+    height: 19px;
+}
+
+.menu {
+    width: 328.6px;
+    height: 35px;
+    position: absolute;
+    left: 1111.09px;
+    padding: 0px 25px;
+    gap: 68px;
+}
+
+.buttons {
+    width: 244px;
+    height: 35px;
+    gap: 68px;
+}
+
+.btn-hebergement {
+    width: 113px;
+    height: 35px;
+}
+
+.btn-activites {
+    width: 63px;
+    height: 35px;
+}
+
 /****** Hebergements And Populaires ***********/
 .hebergements-and-populaires {
     display: flex;
